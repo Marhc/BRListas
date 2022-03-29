@@ -2,5 +2,223 @@
   "bancos": [
     { "codigo": 1, "nome": "Banco do Brasil S.A." }, 
     { "codigo": 70, "nome": "BRB - BANCO DE BRASILIA S.A." }
+  ],
+  "presidents": [
+    {
+        "order": 1,
+        "shortName": "Deodoro da Fonseca",
+        "fullName": "Manuel Deodoro da Fonseca",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Deodoro_da_Fonseca_(1889).jpg"
+    },
+    {
+        "order": 2,
+        "shortName": "Floriano Peixoto",
+        "fullName": "Floriano Vieira Peixoto",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Floriano_Peixoto_(1891).jpg"
+    },
+    {
+        "order": 3,
+        "shortName": "Prudente de Morais",
+        "fullName": "Prudente José de Morais Barros",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Prudentedemorais.jpg"
+    },
+    {
+        "order": 4,
+        "shortName": "Campos Sales",
+        "fullName": "Manuel Ferraz de Campos Sales",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Campos_Sales.jpg"
+    },
+    {
+        "order": 5,
+        "shortName": "Rodrigues Alves",
+        "fullName": "Francisco de Paula Rodrigues Alves",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Rodrigues_Alves_3.jpg"
+    },
+    {
+        "order": 6,
+        "shortName": "Afonso Pena",
+        "fullName": "Afonso Augusto Moreira Pena",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Afonso_Pena.jpg"
+    },
+    {
+        "order": 7,
+        "shortName": "Nilo Peçanha",
+        "fullName": "Nilo Procópio Peçanha",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Nilo_Peçanha_02.jpg"
+    },
+    {
+        "order": 8,
+        "shortName": "Hermes da Fonseca",
+        "fullName": "Hermes Rodrigues da Fonseca",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Hermes_da_Fonseca_(1910).jpg"
+    },
+    {
+        "order": 9,
+        "shortName": "Venceslau Brás",
+        "fullName": "Venceslau Brás Pereira Gomes",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Venceslau_Brás.jpg"
+    },
+    {
+        "order": 10,
+        "shortName": "Delfim Moreira",
+        "fullName": "Delfim Moreira da Costa Ribeiro",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Delfim_Moreira_(1918).jpg"
+    },
+    {
+        "order": 11,
+        "shortName": "Epitácio Pessoa",
+        "fullName": "Epitácio Lindolfo da Silva Pessoa",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Epitacio_Pessoa_(1919).jpg"
+    },
+    {
+        "order": 12,
+        "shortName": "Arthur Bernardes",
+        "fullName": "Artur da Silva Bernardes",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Artur_Bernardes_(1922).jpg"
+    },
+    {
+        "order": 13,
+        "shortName": "Washington Luís",
+        "fullName": "Washington Luís Pereira de Sousa",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Washington_Luís_(foto).jpg"
+    },
+    {
+        "order": 14,
+        "shortName": "Getúlio Vargas",
+        "fullName": "Getúlio Dornelles Vargas",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Getulio_Vargas_(1930).jpg"
+    },
+    {
+        "order": 15,
+        "shortName": "José Linhares",
+        "fullName": "José Linhares",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:José_Linhares,_presidente_dos_Estados_Unidos_do_Brasil.tif"
+    },
+    {
+        "order": 16,
+        "shortName": "Gaspar Dutra",
+        "fullName": "Eurico Gaspar Dutra",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:GASPARDUTRA.jpg"
+    },
+    {
+        "order": 17,
+        "shortName": "Café Filho",
+        "fullName": "João Fernandes Campos Café Filho",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Café_Filho.jpg"
+    },
+    {
+        "order": 18,
+        "shortName": "Carlos Luz",
+        "fullName": "Carlos Coimbra da Luz",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:CarlosLuz.jpg"
+    },
+    {
+        "order": 19,
+        "shortName": "Nereu Ramos",
+        "fullName": "Nereu de Oliveira Ramos",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Presidente_Nereu_Ramos.jpg"
+    },
+    {
+        "order": 20,
+        "shortName": "Juscelino Kubitschek",
+        "fullName": "Juscelino Kubitschek de Oliveira",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Juscelino.jpg"
+    },
+    {
+        "order": 21,
+        "shortName": "Jânio Quadros",
+        "fullName": "Jânio da Silva Quadros",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Janio_Quadros.png"
+    },
+    {
+        "order": 22,
+        "shortName": "Ranieri Mazzilli",
+        "fullName": "Pascoal Ranieri Mazzilli",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Ranieri_Mazzilli_(1961).jpg"
+    },
+    {
+        "order": 23,
+        "shortName": "João Goulart",
+        "fullName": "João Belchior Marques Goulart",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Jango.jpg"
+    },
+    {
+        "order": 24,
+        "shortName": "Castelo Branco",
+        "fullName": "Humberto de Alencar Castelo Branco",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Castelobranco.jpg"
+    },
+    {
+        "order": 25,
+        "shortName": "Costa e Silva",
+        "fullName": "Artur da Costa e Silva",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Costa_e_Silva.jpg"
+    },
+    {
+        "order": 26,
+        "shortName": "Médici",
+        "fullName": "Emílio Garrastazú Médici",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Emílio_Garrastazu_Médici,_presidente_da_República._(cropped).tif"
+    },
+    {
+        "order": 27,
+        "shortName": "Geisel",
+        "fullName": "Ernesto Beckmann Geisel",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Ernesto_Geisel_a_cores.jpg"
+    },
+    {
+        "order": 28,
+        "shortName": "Figueiredo",
+        "fullName": "João Baptista de Oliveira Figueiredo",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Figueiredo.jpg"
+    },
+    {
+        "order": 29,
+        "shortName": "José Sarney",
+        "fullName": "José Sarney de Araújo Costa",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Foto_Oficial_Sarney_EBC.jpg"
+    },
+    {
+        "order": 30,
+        "shortName": "Fernando Collor",
+        "fullName": "Fernando Affonso Collor de Mello",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Fernando_Collor_1992_B%26W.jpg"
+    },
+    {
+        "order": 31,
+        "shortName": "Itamar Franco",
+        "fullName": "Itamar Augusto Cautiero Franco",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Itamar_Augusto_Cautiero_Franco.gif"
+    },
+    {
+        "order": 32,
+        "shortName": "Fernando Henrique",
+        "fullName": "Fernando Henrique Cardoso",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Fernando_Henrique_Cardoso_(1999).jpg"
+    },
+    {
+        "order": 33,
+        "shortName": "Lula",
+        "fullName": "Luiz Inácio Lula da Silva",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Lula_-_foto_oficial_-_05_jan_2007_(cropped_3).jpg"
+    },
+    {
+        "order": 34,
+        "shortName": "Dilma Rousseff",
+        "fullName": "Dilma Vana Rousseff",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg"
+    },
+    {
+        "order": 35,
+        "shortName": "Michel Temer",
+        "fullName": "Michel Miguel Elias Temer Lulia",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Presidente_Michel_Temer_(foto_oficial)_-_cortada.jpg"
+    },
+    {
+        "order": 36,
+        "shortName": "Jair Bolsonaro",
+        "fullName": "Jair Messias Bolsonaro",
+        "portraitUrl": "https://en.wikipedia.org/wiki/File:Jair_Bolsonaro_em_24_de_abril_de_2019_(1)_(cropped).jpg"
+    }
   ]
 }
